@@ -17,7 +17,8 @@ class ViewController: UIViewController {
         label.frame = CGRect(x: 20, y: 100, width: 40, height: 30)
         self.view.addSubview(label)
         
-        
+        let arr =[] as [Int]
+        print(arr[5])
     }
 
 
